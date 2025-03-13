@@ -107,8 +107,8 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more details.
 
 ## 📫 Contact
 
-- **Your Name** - [your-email@example.com](mailto:your-email@example.com)
-- **Project Link**: [https://github.com/your-username/custom-react-form](https://github.com/your-username/custom-react-form)
+- **Your Name** - [anthonyfabian212@gmail.com](mailto:your-email@example.com)
+- **Project Link**: [https://github.com/Atch2/cpReact/tree/main/anthonyForm](https://github.com/your-username/custom-react-form)
 
 ```
 
