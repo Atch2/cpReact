@@ -1,3 +1,8 @@
+//objetivo: memorizar (cache) el resultado de ejecutar una función costosa, para evitar que se vuelva a llamar el método
+//Ejemplo:
+//Tenemos una lista de compras y ya calculaste el costo total de hacer toda la compra
+//Si no agregamos nada ni tampoco cambio nada, ¿Cúal es el costo total?
+
 import { useMemo, useState } from "react";
 
 interface Item {

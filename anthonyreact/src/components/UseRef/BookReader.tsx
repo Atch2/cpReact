@@ -1,3 +1,11 @@
+// objetivo: Nos permite crear una referencia mutable que persiste durante todo el ciclo de vida del componente
+// SIN causar un re - render
+// objetivo 2: hacer referencia a un elemento del DOM
+
+// Ejemplo:
+// Un marcador de un libro que utilizamos para guardar la ultima posición de la Lectra
+// No modifica el libro
+
 import { useRef, useState } from "react";
 
 export const BookReader = () => {
